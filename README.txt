@@ -6,11 +6,11 @@ Instruction for using the program:-
 -> Install pyautogui on the system using pip install.
 -> Open mozilla in private browsering.
 -> Open "http://groups.google.com/a/nptel.iitm.ac.in/" .
--> Open signin Page.
+-> Open Signin Page.
 -> Run python traverse.py in the console/terminal .
 -> Complete the next 2 steps within 10sec.
--> Change to mozilla browser page.
--> focus on the Signin email field. 
+   -> Switch to mozilla browser.
+   -> focus on the Signin email field. 
 -> Wait until the WHOLE process is complete.
 
 
@@ -22,7 +22,7 @@ PRECAUTIONS:-
 
 /***
 
-LAST but not the least , the code can be be change so as to run it for multiple iterations. Just change the parameters of the function
+NOTE:- the code can be be change so as to run it for multiple iterations. Just change the parameters of the function
 accordinly
 
 ***/
